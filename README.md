@@ -19,5 +19,6 @@
 
 ### 运行流程
 ```
+cd ./Ex1
 python run_[MASK].py
 ```
