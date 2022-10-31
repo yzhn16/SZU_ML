@@ -2,9 +2,10 @@
 ## Ex1:威斯康星州乳腺癌诊断情况预测
 ### 环境依赖
 - Python 3.9.12
-- lightgbm == 3.3.2
 - numpy == 1.21.5
 - pandas == 1.4.2
+- lightgbm == 3.3.2
+- scikit-learn == 1.0.2
 
 ### 目录结构
 ```
