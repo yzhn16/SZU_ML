@@ -1,5 +1,12 @@
 # 机器学习课程作业@SZU
 ## Ex1:威斯康星州乳腺癌诊断情况预测
+### 环境依赖
+- Python 3.9.12
+- lightgbm == 3.3.2
+- numpy == 1.21.5
+- pandas == 1.4.2
+
+### 目录结构
 ```
 ./
 ├── data.csv, csv格式的训练数据
@@ -9,7 +16,8 @@
 ├── run_svm.py, 训练支持向量分类模型
 └── ...
 ```
-运行方式：
+
+### 运行流程
 ```
-python run_lgb.py
+python run_[MASK].py
 ```
