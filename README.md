@@ -22,8 +22,28 @@ cd ./Ex1
 python run_[MASK].py
 ```
 
+## Ex2: 数据的低维特征提取
+### 环境依赖
+- Python 3.9.12
+- numpy == 1.21.5
+- pandas == 1.4.2
+- lightgbm == 3.3.2
+- scikit-learn == 1.0.2
+- umap-learn == 0.5.3
+### 目录结构
+```
+./Ex2
+├── reduce.py, 降维分析
+├── train.py, 使用不同的降维维度训练分类模型
+└── ...
+```
+
 ## Ex3:心电异常事件预测
-
 - 2019 “合肥高新杯” 心电人机智能
-
-## Ex2: TODO
+### 环境依赖
+- Python 3.9.12
+- numpy == 1.21.5
+- pandas == 1.4.2
+- lightgbm == 3.3.2
+- scikit-learn == 1.0.2
+- torch == 1.12.1
